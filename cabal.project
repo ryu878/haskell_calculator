@@ -1,0 +1,1 @@
+echo "packages: ." > cabal.project
